@@ -1,0 +1,10 @@
+<ruleset name="ProPublica.org Onion">
+	<target host="propublica.org"/>
+	<target host="www.propublica.org"/>
+	<target host="projects.propublica.org"/>
+	<target host="static.propublica.org"/>
+
+	<rule from="^https?://(www\.)?propublica\.org/" to="http://propub3r6espa33w.onion/" />
+	<rule from="^https?://projects\.propublica\.org/" to="http://pubapp7v22ykdou3.onion/" />
+	<rule from="^https?://static\.propublica\.org/" to="http://ppasset42kropoy6.onion/" />
+</ruleset>
