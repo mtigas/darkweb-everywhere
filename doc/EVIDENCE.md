@@ -272,6 +272,14 @@ The rules of addresses which the ownership is not verified yet, should be put un
 * **Project PM**
 	* Documented here: <http://echelon2.org/wiki/Main_Page> ([A](https://archive.today/XyL35)) - linked on the main page
 
+* **ProPublica (www)**
+	* [Contributed](https://github.com/mtigas/darkweb-everywhere/commit/3ad86dac548b7d89604c28247440ffe3b42f3c25) by [ProPublica staffer](https://www.propublica.org/site/author/mike_tigas)
+  * Documented here: <https://gist.github.com/mtigas/0d49b42fab6f9d2f7e69> ([A](https://archive.today/BFhse))
+
+* **ProPublica SecureDrop**
+	* Documented here: <https://securedrop.propublica.org/> ([A](https://archive.today/U7WcI)) and <https://gist.github.com/mtigas/0d49b42fab6f9d2f7e69> ([A](https://archive.today/BFhse))
+	* Listed on [official list of SecureDrop instances](https://freedom.press/securedrop/directory) ([A](https://archive.today/mQADs))
+
 * **QuackQuackGo Searx**
 	* Documented here: <https://quackquackgo.nl> ([A](https://archive.today/YBq4M)) - linked on the main page
 
